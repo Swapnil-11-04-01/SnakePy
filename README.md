@@ -14,7 +14,7 @@ SnakesPy is a GUI game of Snake implemented in Python. It provides an enjoyable 
 ## Demo
 [![Watch Demo Video](Demo.gif)](https://www.youtube.com/watch?v=uP1oYtnxwEA)
 
-Click the image above to watch a demo video of SnakesPy on YouTube.
+Click the gif above to watch full demo video of SnakesPy on YouTube.
 
 ## Screenshots
 ![Screenshot 1](SS1.png)
